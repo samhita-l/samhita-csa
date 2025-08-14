@@ -3,7 +3,7 @@ description: "Class of 2026"
 owner_name: Samhita Lagisetti
 github_username: samhita-l 
 github_repo: "student" 
-baseurl: "/student" 
+baseurl: "/samhita-csa" 
 future: true
 remote_theme: jekyll/minima
 minima:
