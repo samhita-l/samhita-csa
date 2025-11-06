@@ -148,4 +148,32 @@ N@tM was a fun and motivating experience. It felt rewarding to see people take i
 
 ## Contributions and Achievements
 
+# Certificate Module
+![Description](images/about/Screenshot 2025-11-06 033149.png)
+I worked on the frontend for our certificate system, designing and building the layout that displays verified modules like Frontend Development, Backend Development, Data Visualization, and more. I focused on creating a clean, organized interface with color-coded sections that made each certificate visually distinct and easy to navigate.
+
+
+In addition to designing the interface, I also served as the integrator, making sure the frontend and backend systems communicated correctly and that all certificate data rendered as intended. 
+
+![Description](images/about/Screenshot 2025-11-06 033646.png)
+
+I tested features thoroughly, fixed display or data issues, and helped ensure the overall platform functioned reliably. I also provided feedback to other groups during development and testing, which helped me understand different approaches to user experience and problem-solving.
+
 # Breakout Game
+![Description](images/Screenshot 2025-11-06 031152.png)
+![Description](images/Screenshot 2025-11-06 031303.png)
+![Description](images/Screenshot 2025-11-06 031227.png)
+![Description](images/Screenshot 2025-11-06 031323.png)
+
+I also worked on the iteration process of our Breakout Game project. Throughout development, I implemented key features such as a score tracker, a lives system, and a game over sequence that reset the game once the player lost all lives. These additions helped make the game more interactive and complete.
+
+Later in the trimester, when we transitioned into object-oriented programming (OOP), I revisited my code to apply class structures and better organization. I separated different parts of the game—like the paddle, ball, and bricks—into their own classes and managed their interactions through objects instead of one long procedural script. Updating the code in this way made it cleaner, more efficient, and easier to modify for future improvements.
+
+Throughout this process, I realized how important it was to think about the audience—especially how younger students tend to be more interested in games and engaging, interactive content. That perspective made me more mindful of designing programs that aren’t just functional, but also fun and appealing to others.
+
+Through this experience, I learned how OOP principles like encapsulation and modularity can make even small games more scalable and professional. It was satisfying to see the project evolve from a simple prototype into a well-structured program that reflected what we were learning in class.
+
+# Team Teaches and Grading
+![Description](images/about/Screenshot 2025-11-06 032404.png)
+![Description](images/about/Screenshot 2025-11-06 032416.png)
+Along with coding, I was able to coordinate between students and the teacher to ensure a streamlined workflow of grading, giving students responsiblity with grading, while making sure that the teacher is in the loop as well. We mapped out what games could cover which lessons to help students decide what aligned best with what they've done, giving them a better lesson to teach. Then, we created a sign up sheet as well as updated the calendar and a clear format students had to follow so they abided by our whole system framework.
