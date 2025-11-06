@@ -7,6 +7,25 @@ description: Trimester 1 Reflection and Analysis
 author: Samhita Lagisetti
 ---
 
+
+## Reflection Self-Review
+
+# Beginning of the Year
+
+At the start of the trimester, I was still dusting off cobwebs after taking a year off from the CSP/CSA pathway to focus on personal projects. It took me some time to adjust to Mr. Mortenson’s expectations and systems again since I had been used to working independently—either solo or with a mentor—on projects like my REHS internship benchmarking ML models and building a workflow for tracking module logs on UCSD’s Expanse supercomputer. I also worked on a personal project focused on promoting injury-free athletes.
+
+# Growth and Collaboration
+
+When I came into CSA, I quickly realized that success in this class depended heavily on collaboration. Unlike my previous projects, which were independent, this environment required teamwork, communication, and adaptability. Over the trimester, I’ve grown more comfortable sharing ideas, debugging with others, and contributing meaningfully to group discussions and projects.
+
+# Next Steps for My Project
+
+Given more time on my current project, I’d like to expand its functionality and improve the user experience. I also want to make the project more robust and scalable by refining the design and testing for edge cases.
+
+# Future Goals in Computer Science
+
+Next, I want to strengthen my understanding of algorithms and data structures while exploring more advanced areas like machine learning and software engineering principles. I’m especially interested in applying what I learn to create practical, data-driven solutions that make an impact.
+
 ## Practice Exam 1 MCQ
 
 Results: 29/42
@@ -98,3 +117,35 @@ Q42: For Loop Equivalent to While Loop
 ![Description](images/Screenshot 2025-11-05 133329.png)
 I missed that the original while loop increments before adding to the sum. The correct for loop starts at 1 and goes to 6.
 
+# Plan
+1. Review and reinforce core java syntax like variable declarations. 
+2. Also master insertion sort, binary search, recursion patterns.
+3. Strengthening code comprehension 
+
+## Night at the Museum Reflection
+# Overview
+
+Night at the Museum (N@tM) gave us the opportunity to present everything we’ve accomplished this trimester to teachers, parents, and visitors. My group showcased our Computer Science Portfolio Project, which organizes students’ coding work into an interactive and visually structured format. We wanted to highlight the progress we’ve made in both our technical and creative skills while demonstrating how the platform helps track and present our learning.
+
+# Presenting to Parents and Guests
+
+During the showcase, I described how each part of the portfolio represents different areas of computer science we’ve focused on this trimester—like frontend tools, backend logic, and data analytics. Visitors were interested in how the system tracks completion, generates certificates, and encourages consistent reflection. I also explained how building this platform helps students clearly see their growth over time and stay motivated.
+
+Parents asked engaging questions about how this type of project could be useful for other classes or for building college portfolios. Several mentioned that they liked how it builds students’ confidence in presenting technical topics in a clear and creative way.
+
+# Feedback and Interaction
+
+After our presentation, I explored other groups’ projects and learned a lot from seeing how different teams approached their ideas. Some focused on AI, while others built data visualizations or tools with unique designs. Talking with them gave me ideas for improving our own project’s layout and interactivity. It was also interesting to notice how each group explained their process and design choices.
+
+# Reflection
+
+N@tM was a fun and motivating experience. It felt rewarding to see people take interest in our project and ask questions about how it works. I was proud of how our group collaborated and how much progress we’ve made since the start of the trimester. This event made me excited to keep building on our work and to find new ways to connect computer science with design, communication, and creativity.
+
+# Pictures
+![Description](images/Screenshot 2025-11-06 013307.png)
+![Description](images/Screenshot 2025-11-06 013252.png)
+![Description](images/Screenshot 2025-11-06 013241.png)
+
+## Contributions and Achievements
+
+# Breakout Game
