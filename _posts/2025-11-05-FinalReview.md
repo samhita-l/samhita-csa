@@ -43,37 +43,35 @@ Analysis:
 The Painting constructor only accepts two parameters: an int and a String. My answer tried to pass three arguments, which doesn’t match the constructor.
 Correction:
 <pre>
-```java
 Painting p = new Painting(1939, "Frida Kahlo");
-```
+
 </pre>
 
 Q8: Integer Division and Casting
 ![Description](images/Screenshot 2025-11-05 132746.png)
 I misunderstood how casting affects division. I thought both expressions would give me the same result, but they don’t.
 <pre>
-```java
+
 double w = 2.0;
 double x = 5.0;
 double y = (int) w / x;         // 0.4
 double z = (int) (w / x);       // 0.0
-```
+
 </pre>
 
 Q14: Boolean Expression Equivalence
 ![Description](images/Screenshot 2025-11-05 132904.png)
 I messed up De Morgan’s Law. The original expression was:
 <pre>
-```java
+
 !(isEven && isPositive) && isPrime
 
-```
 </pre>
 The correct equivalent is:
 <pre>
-```java
+
 (!isEven || !isPositive) && isPrime
-```
+
 </pre>
 
 Q19: Random Number Range
@@ -85,33 +83,24 @@ Q29: Recursive Print Order
 I expected the output to be in the order of calls, but recursion prints in reverse. The deepest call finishes first, and then the stack unwinds.
 
 Q35: ArrayList Traversal Behavior
-![Description](images/Screenshot 2025-11-05 133051.png)
+![Description](images/Screenshot 2025-11-05 133114.png)
 I thought the method checked for ascending order, but it was actually checking for descending. It returns true only if the list is sorted from greatest to least.
 
 Q37: 2D Array Row Count
-![Description](images/Screenshot 2025-11-05 133114.png)
+![Description](images/Screenshot 2025-11-05 133139.png)
 I confused rows and columns. The method loops through a specific row, not a column.
 
 Q38: Scanner File Parsing
-![Description](images/Screenshot 2025-11-05 133139.png)
+![Description](images/Screenshot 2025-11-05 133212.png)
 I tried to manually split the input, but the cleanest way was using split("_") to divide each string into two parts.
 
 Q39: Recursive Binary Search
-![Description](images/Screenshot 2025-11-05 133212.png)
+![Description](images/Screenshot 2025-11-05 133245.png)
 I didn’t trace the recursive calls carefully. The target was found at index 2, but I expected something else.
 
 Q40: Insertion Sort After 3 Passes
-![Description](images/Screenshot 2025-11-05 133245.png)
-I underestimated how much sorting happens in each pass. After three passes, the first three elements are sorted.
-
-Q41: Scanner File Parsing
-I tried to manually split the input, but the cleanest way was using split("_") to divide each string into two parts.
-
-Q42: For Loop Equivalent to While Loop
-![Description](images/Screenshot 2025-11-05 133245.png)
-
-
 ![Description](images/Screenshot 2025-11-05 133310.png)
+I underestimated how much sorting happens in each pass. After three passes, the first three elements are sorted.
 
 Q42: For Loop Equivalent to While Loop
 ![Description](images/Screenshot 2025-11-05 133329.png)
@@ -177,3 +166,6 @@ Through this experience, I learned how OOP principles like encapsulation and mod
 ![Description](images/about/Screenshot 2025-11-06 032404.png)
 ![Description](images/about/Screenshot 2025-11-06 032416.png)
 Along with coding, I was able to coordinate between students and the teacher to ensure a streamlined workflow of grading, giving students responsiblity with grading, while making sure that the teacher is in the loop as well. We mapped out what games could cover which lessons to help students decide what aligned best with what they've done, giving them a better lesson to teach. Then, we created a sign up sheet as well as updated the calendar and a clear format students had to follow so they abided by our whole system framework.
+
+# Summer Project
+![Description](images/about/Screenshot 2025-11-06 100556.png)
